@@ -3,7 +3,7 @@
 ##### Usage
 
 ```bash
-$ source plugin_installer.sh
+$ source plugin_installer.sh  # Install plugin packages.
 $ python runner.py
 ```
 
